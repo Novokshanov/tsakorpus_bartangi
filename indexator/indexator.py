@@ -16,7 +16,6 @@ from prepare_data import PrepareData
 from json_doc_reader import JSONDocReader
 from json2html import JSON2HTML
 
-
 class Indexator:
     """
     Contains methods for loading the JSON documents in the corpus
@@ -83,7 +82,7 @@ class Indexator:
             # Connect to a non-default URL or supply username and password
             self.es = Elasticsearch([self.settings['elastic_url']], timeout=60)
         else:
-            self.es = Elasticsearch(timeout=60)
+            self.es = Elasticsearch(hosts=["http://localhost:9200"], timeout=60)  # self.es = Elasticsearch(timeout=60)
         self.es_ic = IndicesClient(self.es)
 
         self.shuffled_ids = [i for i in range(1, 1000000)]
