@@ -1,6 +1,10 @@
 {
  "meta": {
-  "filename": "corpus\\txt\\Yatimak.txt"
+  "filename": "corpus\\txt\\Yatimak.txt",
+  "author": "Шакармамадов Н./ Алиназаров К., 39 лет, служащий",
+  "title": "Йатимак (Сирота)",
+  "year": "1974",
+  "genre": "tale"
  },
  "sentences": [
   {
