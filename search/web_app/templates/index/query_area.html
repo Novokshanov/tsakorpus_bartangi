@@ -41,7 +41,7 @@
 								<label for="lang1">{{ _('Language/tier:') }}</label>
 								<select name="lang1" id="lang1" class="tier_select search_input">
 								{% for lang in languages %}
-								<option value="{{ lang }}">{{ _('langname_' + lang) }}</option>
+								<option value="{{ lang }}">{{ _(lang) }}</option>
 								{% endfor %}
 								{% if all_lang_search %}
 								<option value="all">{{ _('langname_all') }}</option>
@@ -50,7 +50,7 @@
 							{% else %}
 								<select name="lang1" id="lang1" class="tier_select" style="display: none; visibility: hidden; height: 0px">
 								{% for lang in languages %}
-								<option value="{{ lang }}">{{ _('langname_' + lang) }}</option>
+								<option value="{{ lang }}">{{ _(lang) }}</option>
 								{% endfor %}
 								</select>
 							{% endif %}
