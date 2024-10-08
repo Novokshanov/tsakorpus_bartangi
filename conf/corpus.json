@@ -911,7 +911,7 @@
     "year",
     "genre"
   ],
-  "start_page_url": "https://pamiri.online",
+  "start_page_url": "http://194.87.220.135:7342/search",
   "text_fields_lowercase": false,
   "transliterations": [
     "original"
