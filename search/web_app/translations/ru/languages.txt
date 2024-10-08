@@ -79,5 +79,4 @@ ut-main	ут-маин
 wan	уан
 yakut	якутский
 yiddish	идиш
-Russian    русский
-Bartangi   бартангский
+bartangi   бартангский
