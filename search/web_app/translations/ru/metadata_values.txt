@@ -30,4 +30,4 @@ unique	однозначно
 translated	перевод
 wikipedia	Википедия
 written	письменные
-tale    фольклор
+metavalue_tale    фольклор
