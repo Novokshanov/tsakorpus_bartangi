@@ -1,9 +1,10 @@
 {
  "meta": {
   "filename": "corpus\\txt\\Aray_yax.txt",
-  "author": "Шанбеев Н.",
+  "author": "Шакармамадов Н. / Шанбеев Н.",
+  "place": "к. Басид, Рушанский р-он",
   "title": "Три сестры",
-  "year": "1974",
+  "year": : 1974,
   "genre": "tale"
  },
  "sentences": [

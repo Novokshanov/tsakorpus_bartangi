@@ -2,8 +2,9 @@
  "meta": {
   "filename": "corpus\\txt\\dehkon.txt",
   "author": "Карамхудоев Н. / Назариев",
+  "place": "к. Басид, Рушанский р-он",
   "title": "Дехканин и кувшин золота",
-  "year": "1960",
+  "year": 1960,
   "genre": "tale"
  },
  "sentences": [

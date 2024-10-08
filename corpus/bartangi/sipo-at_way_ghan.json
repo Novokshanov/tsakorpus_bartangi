@@ -1,9 +1,10 @@
 {
  "meta": {
   "filename": "corpus\\txt\\sipo-at_way_ghan.txt",
-  "author": "Тавалло Паллаев",
+  "author": "Н. Шакармамадов / Тавалло Паллаев",
+  "place": "unknown",
   "title": "Воин и его жена",
-  "year": "unk",
+  "year": "unknown",
   "genre": "tale"
  },
  "sentences": [
