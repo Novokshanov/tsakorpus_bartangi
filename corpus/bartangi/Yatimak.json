@@ -3748,7 +3748,17 @@
      "off_end": 7,
      "next_word": 1,
      "sentence_index": 0,
-     "sentence_index_neg": 79
+     "sentence_index_neg": 79,
+     "ana": [
+      {
+       "lex": "yatimak",
+       "gr.pos": "n",
+       "parts": "yatimak",
+       "gloss": "сирота",
+       "trans_ru": "сирота",
+       "gloss_index": "сирота{yatimak}-"
+      }
+     ]
     },
     {
      "off_start": 8,
@@ -5425,7 +5435,17 @@
      "off_end": 7,
      "next_word": 1,
      "sentence_index": 0,
-     "sentence_index_neg": 12
+     "sentence_index_neg": 12,
+     "ana": [
+      {
+       "lex": "yatimak",
+       "gr.pos": "n",
+       "parts": "yatimak",
+       "gloss": "сирота",
+       "trans_ru": "сирота",
+       "gloss_index": "сирота{yatimak}-"
+      }
+     ]
     },
     {
      "off_start": 8,
